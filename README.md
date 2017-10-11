@@ -1,4 +1,5 @@
 # Dummy
 ECS 161 Example
 
-This is an example change
+This is an example change.
+More changes.
